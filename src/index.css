@@ -28,27 +28,14 @@ body {
   max-width: 400px;
 }
 
-.die--container {
+.dice--container {
   display: flex;
   align-items: center;
   justify-content: center;
-  max-width: 350px;
+  max-width: 400px;
   flex-wrap: wrap;
   gap: 10px;
   padding: 10px;
-}
-
-.die--face {
-  border: black solid 3px;
-  border-radius: 10px;
-}
-
-.die--held{
-  background-color: #59E391;
-}
-
-.die--value{
-  margin: 10px 18px;
 }
 
 .btn--roll{
